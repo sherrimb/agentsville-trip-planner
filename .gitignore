@@ -1,0 +1,39 @@
+---
+
+# 3) Paste-ready `.gitignore`
+
+> create **.gitignore** and paste:
+Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+Jupyter
+
+.ipynb_checkpoints/
+.profile
+
+OS
+
+.DS_Store
+Thumbs.db
+
+Editor
+
+.vscode/
+.idea/
+
+Secrets (never commit keys)
+
+*.key
+*.pem
+*.env.local
