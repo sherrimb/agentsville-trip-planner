@@ -3,7 +3,7 @@
 It combines **structured prompting**, **Pydantic models**, a **ReAct revision agent** with tool use, and **LLM-powered evaluations** (including weather/activity compatibility).
 
 <p align="center">
-  <img src="assets/agent/jpg" alt="AgentsVille Trip Planner Banner" width="1000"/>
+  <img src="assets/agent.jpg" alt="AgentsVille Trip Planner Banner" width="1000"/>
 </p>
 
 <p align="center">
