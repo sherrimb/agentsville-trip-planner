@@ -7,9 +7,9 @@ It combines **structured prompting**, **Pydantic models**, a **ReAct revision ag
 </p>
 
 <p align="center">
-  <img src="assets/img_7974.jpg" alt="Evaluation Screenshot 1" width="600"/>
+  <img src="assets/IMG_7974.jpg" alt="Evaluation Screenshot 1" width="600"/>
   <br/>
-  <img src="assets/img_7975.jpg " alt="Evaluation Screenshot 2" width="600"/>
+  <img src="assets/IMG_7975.jpg " alt="Evaluation Screenshot 2" width="600"/>
 </p>
 
 ## ✨ Highlights
