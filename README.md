@@ -3,7 +3,13 @@
 It combines **structured prompting**, **Pydantic models**, a **ReAct revision agent** with tool use, and **LLM-powered evaluations** (including weather/activity compatibility).
 
 <p align="center">
-  <img src="assets/screenshot-itinerary-pass.png" alt="Passing evals" width="85%"/>
+  <img src="assets/agent/jpg" alt="AgentsVille Trip Planner Banner" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="assets/img_7974.jpg" alt="Evaluation Screenshot 1" width="600"/>
+  <br/>
+  <img src="assets/img_7975.jpg " alt="Evaluation Screenshot 2" width="600"/>
 </p>
 
 ## ✨ Highlights
