@@ -6,7 +6,12 @@ It combines **structured prompting**, **Pydantic models**, a **ReAct revision ag
   <img src="assets/agent.jpg" alt="AgentsVille Trip Planner Banner" width="800"/>
 </p>
 
-<table align="center" style="border: 2px solid #ccc; border-collapse: collapse;">
+<table align="center" style="border: 2px solid #ccc; border-collapse: collapse; background-color: #f5f5f5; width: auto;">
+  <tr>
+    <td colspan="2" align="center" style="border: 2px solid #ccc; padding: 10px; background-color: #eaeaea; font-weight: bold;">
+      Passing Evaluations ✅
+    </td>
+  </tr>
   <tr>
     <td style="border: 2px solid #ccc; padding: 10px;" align="center">
       <img src="assets/IMG_7974.jpg" alt="Evaluation Screenshot 1" width="200"/>
