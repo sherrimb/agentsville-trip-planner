@@ -3,15 +3,19 @@
 It combines **structured prompting**, **Pydantic models**, a **ReAct revision agent** with tool use, and **LLM-powered evaluations** (including weather/activity compatibility).
 
 <p align="center">
-  <img src="assets/agent.jpg" alt="AgentsVille Trip Planner Banner" width="1000"/>
+  <img src="assets/agent.jpg" alt="AgentsVille Trip Planner Banner" width="800"/>
 </p>
 
-<p align="center">
-  <img src="assets/IMG_7974.jpg" alt="Evaluation Screenshot 1" width="600"/>
-  <br/>
-  <img src="assets/IMG_7975.jpg " alt="Evaluation Screenshot 2" width="600"/>
-</p>
-
+<table align="center" style="border: 2px solid #ccc; border-collapse: collapse;">
+  <tr>
+    <td style="border: 2px solid #ccc; padding: 10px;" align="center">
+      <img src="assets/IMG_7974.jpg" alt="Evaluation Screenshot 1" width="200"/>
+    </td>
+    <td style="border: 2px solid #ccc; padding: 10px;" align="center">
+      <img src="assets/IMG_7975.jpg" alt="Evaluation Screenshot 2" width="200"/>
+    </td>
+  </tr>
+</table>
 ## ✨ Highlights
 - **Expert Planner (ItineraryAgent):** Produces a structured `TravelPlan` JSON that validates against Pydantic models.
 - **ReAct Revision Agent:** Uses THINK → ACT → OBSERVE cycles to fetch activities, run evals, and revise the plan.
